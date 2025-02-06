@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-fA-F0-9]{24}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "age": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "address": {
+      "type": "object",
+      "properties": {
+        "street": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "zipcode": {
+          "type": "string",
+          "pattern": "^[0-9]{5}$"
+        }
+      },
+      "required": ["street", "city", "zipcode"]
+    },
+    "phones": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[0-9]{10}$"
+      }
+    },
+    "isActive": {
+      "type": "boolean"
+    }
+  },
+  "required": ["id", "name", "age", "email", "address", "phones", "isActive"]
+}
