@@ -1,0 +1,13 @@
+{
+    "id": "507f1f77bcf86cd799439011",
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipcode": "12345"
+    },
+    "phones": ["1234567890", "0987654321"],
+    "isActive": false
+}

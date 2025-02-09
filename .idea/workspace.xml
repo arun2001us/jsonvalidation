@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="102a2fe5-2223-4e12-85cf-a937c91864ab" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComplexJsonValidator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/complex-json.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -27,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "arun2001us"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arun2001us&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/arun2001us/jsonvalidation.git",
-    "accountId": "770285bd-c261-4de1-bf3d-6961e3482740"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arun2001us/jsonvalidation.git&quot;,
+    &quot;accountId&quot;: &quot;770285bd-c261-4de1-bf3d-6961e3482740&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -55,6 +56,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.ComplexJsonValidator.executor": "Run",
+    "Application.ComplexJsonValidator1.executor": "Run",
     "Application.JsonValidator.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ChatTagsLlmMigration": "true",
@@ -76,16 +78,16 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/AutomationAPI01/TestAPI03/src/main/java",
+    "last_opened_file_path": "C:/AutomationAPI01/TestAPI03/pom.xml",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComplexJsonValidator">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+  <component name="RunManager" selected="Application.ComplexJsonValidator1">
+    <configuration name="ComplexJsonValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator" />
       <module name="TestAPI03" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexJsonValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator" />
+    <configuration name="ComplexJsonValidator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator1" />
       <module name="TestAPI03" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplexJsonValidator1" />
         <item itemvalue="Application.ComplexJsonValidator" />
         <item itemvalue="Application.JsonValidator" />
         <item itemvalue="TestNG.GETdemo" />
         <item itemvalue="TestNG.GETdemo.test1" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
