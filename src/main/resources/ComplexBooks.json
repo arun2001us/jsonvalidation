@@ -1,0 +1,16 @@
+{
+  "store": {
+    "book": [
+      { "category": "fiction", "title": "The Great Gatsby", "price": 10, "author": "F. Scott Fitzgerald", "published": 1925 },
+      { "category": "fiction", "title": "1984", "price": 15, "author": "George Orwell", "published": 1949 },
+      { "category": "fiction", "title": "Brave New World", "price": 18, "author": "Aldous Huxley", "published": 1932 },
+      { "category": "non-fiction", "title": "Sapiens", "price": 20, "author": "Yuval Noah Harari", "published": 2011 },
+      { "category": "non-fiction", "title": "Homo Deus", "price": 22, "author": "Yuval Noah Harari", "published": 2015 }
+    ],
+    "bicycle": {
+      "color": "red",
+      "price": 100
+    }
+  },
+  "expensive": 20
+}

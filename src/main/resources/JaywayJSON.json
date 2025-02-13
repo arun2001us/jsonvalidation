@@ -1,0 +1,9 @@
+{
+  "store": {
+    "book": [
+      { "title": "The Great Gatsby", "price": 10 },
+      { "title": "1984", "price": 15 }
+    ],
+    "location": "New York"
+  }
+}
