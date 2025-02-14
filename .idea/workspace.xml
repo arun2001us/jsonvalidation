@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="102a2fe5-2223-4e12-85cf-a937c91864ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComplexBooksJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JaywayJSONpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ComplexBooks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/JaywayJSON.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JacksonSerializationExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,7 @@
     "Application.ComplexJsonValidator.executor": "Run",
     "Application.ComplexJsonValidator1.executor": "Run",
     "Application.ComplexJsonValidator2.executor": "Run",
+    "Application.JacksonSerializationExample.executor": "Run",
     "Application.JaywayJSONpath.executor": "Run",
     "Application.JsonValidator.executor": "Run",
     "Application.org.example.JaywayJSONpath.executor": "Run",
@@ -80,6 +77,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.GETdemo.executor": "Run",
     "TestNG.GETdemo.test1.executor": "Run",
@@ -87,14 +85,14 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/AutomationAPI01/TestAPI03/pom.xml",
+    "last_opened_file_path": "C:/Automation03/CucumberWithJavaProject/pom.xml",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComplexJsonValidator2">
+  <component name="RunManager" selected="Application.JacksonSerializationExample">
     <configuration name="ComplexBooksJsonPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ComplexBooksJsonPath" />
       <module name="TestAPI03" />
@@ -108,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexJsonValidator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator1" />
+    <configuration name="ComplexJsonValidator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator2" />
       <module name="TestAPI03" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComplexJsonValidator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ComplexJsonValidator2" />
+    <configuration name="JacksonSerializationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JacksonSerializationExample" />
       <module name="TestAPI03" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JacksonSerializationExample" />
         <item itemvalue="Application.ComplexJsonValidator2" />
         <item itemvalue="Application.ComplexBooksJsonPath" />
         <item itemvalue="Application.org.example.JaywayJSONpath" />
         <item itemvalue="Application.JaywayJSONpath" />
-        <item itemvalue="Application.ComplexJsonValidator1" />
       </list>
     </recent_temporary>
   </component>
